@@ -1,0 +1,35 @@
+#nosotros{
+    margin-top: 30px;
+}
+
+footer{
+    background-color: #FAE3E3;
+    height: 100px;
+    width: 100vw;
+}
+
+#redes{
+    background-color:   #F25252;
+    height: 100px;
+    width: 100vw;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#desarrollo{
+    margin-top: 10px;
+    background-color: #F25252;
+    height: 150px;
+    width: 100vw;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#box{
+    
+}
+
+#contactanos{
+    border-style: solid;
+    background-color: #6C757D;
+}
